@@ -23,5 +23,5 @@ Hi there! Here are the steps to follow to contribute to this project:
   git push origin ryland
   ```
 
-1. Open a Pull Request to the original repo (see [this example pull request](https://github.com/rylnd/github_workshop/pulls/1))
+1. Open a Pull Request to the original repo (see [this example pull request](https://github.com/rylnd/github_workshop/pull/1))
 1. Celebrate! :tada:
